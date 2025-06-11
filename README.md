@@ -21,8 +21,7 @@
   </td>
   <td width="33%" align="center">
     <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark"/>
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&layout=compact&hide_border=true"
-          alt="Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&layout=compact&hide_border=true"/>
   </td>
 </tr>
 </table>
