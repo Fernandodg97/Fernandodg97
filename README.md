@@ -10,6 +10,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,mysql,react,vue&perline=14" />
   </a>
 </p>
+
 ### Otras tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
