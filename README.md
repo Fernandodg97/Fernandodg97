@@ -18,23 +18,6 @@ or
 ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark)
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr>
-  <td width="33%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true" />
-  </td>
-  <td width="33%" align="center">
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false" alt="Top Langs by repo"/> 
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 ## Otras cosas
 
