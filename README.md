@@ -1,6 +1,5 @@
 ## Bienvenid@ a mi GitHub 👋
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
 ## 💻 Tecnologías
 <p align="center">
@@ -8,6 +7,11 @@
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,react,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github&utcOffset=8)
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
