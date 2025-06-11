@@ -8,11 +8,6 @@
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,react,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
-
-![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark)
-![stats2](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
-![stats3](https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false).
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -28,7 +23,7 @@
 
 <td width="33%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark"/>
   
   </td>
 </tr>
