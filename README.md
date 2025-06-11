@@ -13,7 +13,7 @@
 ### Otras tecnologias:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,macos,vite,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vite,vscode&perline=14" />
   </a>
 </p>
 
