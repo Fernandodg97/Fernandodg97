@@ -12,7 +12,7 @@
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<tr>
 <td width="33%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true" />
@@ -28,6 +28,12 @@
   </td>
 </tr>
 </table>
+
+<style>
+  tr {
+    border: none;
+  }
+</style>
 <!--- stats (end) -->
 
 ## Otras cosas
