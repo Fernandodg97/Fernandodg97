@@ -10,8 +10,8 @@
 </p>
 
 ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark)
-![stats2](https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false)
-![stats3](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark).
+![stats2](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
+![stats3](https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false).
 
 <!--- stats & Trophy (start) -->
 <p align="center">
