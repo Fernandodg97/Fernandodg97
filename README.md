@@ -1,21 +1,8 @@
 ## Bienvenid@ a mi GitHub 👋
 
-<!--
-**Fernandodg97/Fernandodg97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 💻 Tecnologías
+## 💻 Tecnologías
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,react,ts,vscode,kubernetes&perline=14" />
@@ -23,3 +10,9 @@ Here are some ideas to get you started:
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctapazco&layout=compact&dark)
+
+## Otras cosas
+
+Mi currículum: link
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
