@@ -1,22 +1,65 @@
-
 # Hola, mi nombre es Fernando Diaz 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
-## Mis Hablidades incluyen:
+## Mis Habilidades incluyen:
+
 ### Lenguajes:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,mysql,react,vue&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php&perline=14" />
   </a>
 </p>
 
-### Otras tecnologias:
+### Tecnologías Frontend:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,apple,vite,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=14" />
   </a>
 </p>
+
+### Tecnologías Backend:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring&perline=14" />
+  </a>
+</p>
+
+### Bases de Datos:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=14" />
+  </a>
+</p>
+
+### Herramientas de Desarrollo:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=14" />
+  </a>
+</p>
+
+### Herramientas de Diseño:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma&perline=14" />
+  </a>
+</p>
+
+### Sistemas Operativos:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=14" />
+  </a>
+</p>
+
+### Otras Tecnologías:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=14" />
+  </a>
+</p>
+
 
 ## Mis Estadisticas:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
@@ -29,7 +72,7 @@
 
 ## Encuéntrame en:
 <p align="left">
-<a href="https://linkedin.com/in/fernandodiazgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandodiazgutierrez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fernandodiazgutierrez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="fernandodiazgutierrez" /></a>
 </p>
 
 Mi curriculum: ![]()
