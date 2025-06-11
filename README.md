@@ -12,6 +12,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fernandodg97&theme=github&utcOffset=8)
+
+or
+
+![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark)
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
