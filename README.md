@@ -18,14 +18,15 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="33%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true" />
-  <br></br>
+  </td>
+<td width="33%" align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fernandodg97&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Fernandodg97&layout=compact&dark"/>
   
