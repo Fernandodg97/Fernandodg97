@@ -3,6 +3,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fernandodiazgutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandodiazgutierrez" height="30" width="40" /></a>
 </p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
 ## 💻 Tecnologías
