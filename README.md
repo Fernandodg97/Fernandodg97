@@ -80,7 +80,7 @@
   <h2>🧲 Conecta conmigo:</h2>
   <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
   <h3>Mi Currículum:</h3>
-  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">Currículum</a>"</p>
+  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">Currículum</a></p>
 </div>
 
 <!-- Seccion 6: Proyectos Destacados -->
