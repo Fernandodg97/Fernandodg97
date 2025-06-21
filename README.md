@@ -49,6 +49,7 @@ HTML, CSS, JavaScript, TypeScript, Java, PHP, Phyton
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=14" />
   </a>
 </p>
+React, Vue, Bootstrap, Tailwind
 
 ### Tecnologías Backend:
 <p align="left">
