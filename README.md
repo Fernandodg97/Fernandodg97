@@ -1,6 +1,8 @@
 # 👋 Hola, mi nombre es Fernando Diaz
-Desde pequeño, siempre me ha fascinado entender cómo funcionan las cosas a mi alrededor. Empecé desmontando juguetes, luego aparatos electrónicos, hasta que descubrí el mundo de los ordenadores y me enamoré del hardware.
-Esa curiosidad me llevó a estudiar informática y comenzar mi carrera profesional en el área de IT. Con el tiempo, redescubrí mi pasión, esta vez desde otra perspectiva: el desarrollo de software.
+Desde pequeño, siempre me ha fascinado entender cómo funcionan las cosas a mi alrededor. Empecé desmontando juguetes, luego aparatos electrónicos, hasta que descubrí el mundo de los ordenadores y me enamoré del hardware. 
+
+Esa curiosidad me llevó a estudiar informática y comenzar mi carrera profesional en el área de IT. Con el tiempo, redescubrí mi pasión, esta vez desde otra perspectiva: el desarrollo de software. 
+
 Hoy soy programador y disfruto creando soluciones funcionales, eficientes y bien estructuradas. Me motiva aprender constantemente y participar en proyectos donde la tecnología tenga un impacto real.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
