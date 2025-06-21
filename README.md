@@ -38,7 +38,7 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 ### Lenguajes:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,phyton&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php&perline=14" />
   </a>
 </p>
 HTML, CSS, JavaScript, TypeScript, Java, PHP, Phyton
