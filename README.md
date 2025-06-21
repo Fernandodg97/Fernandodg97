@@ -48,7 +48,7 @@
     <tr>
       <td align="center"><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
       <td align="center"><small>React, Vue, Bootstrap, Tailwind</small></td>
-      <td align="center"><small>Spring, Spring Boot</small></td>
+      <td align="center"><small>Spring/Spring Boot</small></td>
       <td align="center"><small>MySQL, PostgreSQL</small></td>
       <td align="center"><small>VSCode, IntelliJ, Eclipse, Postman</small></td>
       <td align="center"><small>Figma</small></td>
@@ -60,7 +60,7 @@
 
 <!-- Seccion 4: Estadisticas -->
 <div>
-  <h2>Mis Estadisticas:</h2>
+  <h2>📊 Mis Estadisticas:</h2>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
@@ -73,6 +73,15 @@
 <div>
   <h2>🧲 Conecta conmigo:</h2>
   <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
-  <h3>Mi curriculum:</h3>
-  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">curriculum</a>"</p>
+  <h3>Mi Currículum:</h3>
+  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">Currículum</a>"</p>
 </div>
+
+<!-- Seccion 6: Proyectos Destacados -->
+ <!-- <h2>🌟 Proyectos Destacados</h2>
+  <ul>
+    <li><a href="https://github.com/Fernandodg97/NombreDelProyecto" target="_blank">🔧 Nombre del Proyecto</a> – breve descripción del proyecto, tecnologías usadas.</li>
+    <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li>
+  </ul>
+</div> -->
+
