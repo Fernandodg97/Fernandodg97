@@ -73,14 +73,14 @@
       <th>Otras Tecnologías</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=4"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=14"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring&perline=1"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring&perline=2"/></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=4"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma&perline=1"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=3"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=5"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=2"/></td>
     </tr>
     <tr>
       <td align="center"><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
