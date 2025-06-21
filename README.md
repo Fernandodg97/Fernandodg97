@@ -16,12 +16,12 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 <!-- Total Stars with GitHub Logo -->
 <a href="https://github.com/Fernandodg97?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+       src="https://img.shields.io/github/stars/Fernandodg97?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
 <!-- Followers with GitHub Logo -->
 <a href="https://github.com/Fernandodg97?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+       src="https://img.shields.io/github/followers/Fernandodg97?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
 </a>
 
 </div>
