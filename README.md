@@ -62,14 +62,17 @@
 <div>
   <h2>📊 Mis Estadisticas:</h2>
   
+  <div align="center">  
+  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fernandodg97&theme=github)
 
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true) -->
-  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+    <!-- ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true) -->
+    <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+  </div>
 </div>
 
 <!-- Seccion 5: Contacto -->
