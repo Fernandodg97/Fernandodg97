@@ -1,6 +1,6 @@
 <!-- Seccion 1: Saludo -->
-<div >
-  <h1 align="center">👋 Hola, mi nombre es Fernando Diaz</h1>
+<div align="center">
+  <h1 >👋 Hola, mi nombre es Fernando Diaz</h1>
   <p align="left">
         Desde pequeño, siempre me ha fascinado entender cómo funcionan las cosas a mi alrededor. Empecé desmontando juguetes, luego aparatos electrónicos, hasta que descubrí el mundo de los ordenadores y me enamoré del hardware. Esa curiosidad me llevó a estudiar informática y comenzar mi carrera profesional en el área de IT. Con el tiempo,
         redescubrí mi pasión, esta vez desde otra perspectiva: el desarrollo de
