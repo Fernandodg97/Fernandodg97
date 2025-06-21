@@ -48,101 +48,67 @@
 
 <!-- Seccion 2: Index -->
 <div>
-      <h2>🚀 ¿Qué encontrarás aquí?</h2>
-      <ul>
-        <li>Proyectos personales y prototipos 🛠️</li>
-        <li>Scripts y herramientas útiles ⚙️</li>
-        <li>Colaboraciones y pequeños experimentos 🎯</li>
-      </ul>
-    </div>
+  <h2>🚀 ¿Qué encontrarás aquí?</h2>
+    <ul>
+      <li>Proyectos personales y prototipos 🛠️</li>
+      <li>Scripts y herramientas útiles ⚙️</li>
+      <li>Colaboraciones y pequeños experimentos 🎯</li>
+    </ul>
+</div>
 <!-- Seccion 3: Habilidades -->
 <div>
-      <h2>🧠 Mis Habilidades incluyen:</h2>
+  <h2>🧠 Mis Habilidades incluyen:</h2>
 
-<!-- Tabla de habilidades para README.md en GitHub -->
+<!-- Tabla de habilidades -->
 <div align="center">
-      <table border="1" cellpadding="10" cellspacing="0">
-        <tr>
-          <th>Lenguajes</th>
-          <th>Frontend</th>
-          <th>Backend</th>
-          <th>Bases de Datos</th>
-          <th>Herramientas de Desarrollo</th>
-          <th>Diseño</th>
-          <th>Sistemas Operativos</th>
-          <th>Otras Tecnologías</th>
-        </tr>
-        <tr>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=7"
-            /><br />
-            <small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small>
-          </td>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=4"
-            /><br />
-            <small>React, Vue, Bootstrap, Tailwind</small>
-          </td>
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=spring&perline=1" /><br />
-            <small>Spring / Spring Boot</small>
-          </td>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"
-            /><br />
-            <small>MySQL, PostgreSQL</small>
-          </td>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=4"
-            /><br />
-            <small>VSCode, IntelliJ, Eclipse, Postman</small>
-          </td>
-          <td align="center">
-            <img src="https://skillicons.dev/icons?i=figma&perline=1" /><br />
-            <small>Figma</small>
-          </td>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=linux,windows,apple&perline=3"
-            /><br />
-            <small>Linux, Windows, macOS</small>
-          </td>
-          <td align="center">
-            <img
-              src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=5"
-            /><br />
-            <small>Git, GitHub, Bash, Vite, Netlify</small>
-          </td>
-        </tr>
-      </table>
-       </div>
-    </div>
+  <table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th>Lenguajes</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Bases de Datos</th>
+      <th>Herramientas de Desarrollo</th>
+      <th>Diseño</th>
+      <th>Sistemas Operativos</th>
+      <th>Otras Tecnologías</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=7"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=4"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring&perline=1"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=4"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma&perline=1"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=3"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=5"/></td>
+    </tr>
+    <tr>
+      <td align="center"><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
+      <td align="center"><small>React, Vue, Bootstrap, Tailwind</small></td>
+      <td align="center"><small>Spring, Spring Boot</small></td>
+      <td><small>MySQL, PostgreSQL</small></td>
+      <td><small>VSCode, IntelliJ, Eclipse, Postman</small></td>
+      <td><small>Figma</small></td>
+      <td><small>Linux, Windows, macOS</small></td>
+      <td><small>Git, GitHub, Bash, Vite, Netlify</small></td>
+    </tr>
+  </table>
+</div>
 
 <!-- Seccion 4: Estadisticas -->
 <div>
-      <h2>Mis Estadisticas:</h2>
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
-
+  <h2>Mis Estadisticas:</h2>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
 <br />
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
-
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
+  ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
 </div>
 
 <!-- Seccion 5: Contacto -->
 <div>
-      <h2>🧲 Conecta conmigo:</h2>
-
-<p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
-
-<h3>Mi curriculum:</h3>
-<p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace:
-        <a href="">curriculum</a>"
-</p>
+  <h2>🧲 Conecta conmigo:</h2>
+  <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
+  <h3>Mi curriculum:</h3>
+  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">curriculum</a>"</p>
 </div>
