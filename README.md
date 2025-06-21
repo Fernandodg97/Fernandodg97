@@ -61,6 +61,7 @@
 <!-- Tabla de habilidades -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,mysql,postgresql,vscode,idea,eclipse,postman,figma,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
+  <br>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
       <th>Lenguajes</th>
