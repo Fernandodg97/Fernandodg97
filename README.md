@@ -108,7 +108,5 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
   <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin.com/in/fernandodg97" /></a> 
     
-  <a href="https://netlify.app/" target="_blank">
-    <img width="60px" src="" alt="Portfolio Badge"></a>
 
 Mi curriculum: ![]()
