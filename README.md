@@ -66,7 +66,6 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
-<br />
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
   ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
 </div>
