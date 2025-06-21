@@ -49,6 +49,7 @@ HTML, CSS, JavaScript, TypeScript, Java, PHP, Phyton
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=14" />
   </a>
 </p>
+
 React, Vue, Bootstrap, Tailwind
 
 ### Tecnologías Backend:
@@ -57,6 +58,7 @@ React, Vue, Bootstrap, Tailwind
     <img src="https://skillicons.dev/icons?i=spring&perline=14" />
   </a>
 </p>
+
 Spring/Spring Boot
 
 ### Bases de Datos:
@@ -65,6 +67,7 @@ Spring/Spring Boot
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=14" />
   </a>
 </p>
+MySQL, PostgreSQL
 
 ### Herramientas de Desarrollo:
 <p align="left">
@@ -72,6 +75,7 @@ Spring/Spring Boot
     <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=14" />
   </a>
 </p>
+VSCode, Intelli, Eclipse, Postman
 
 ### Herramientas de Diseño:
 <p align="left">
@@ -79,6 +83,8 @@ Spring/Spring Boot
     <img src="https://skillicons.dev/icons?i=figma&perline=14" />
   </a>
 </p>
+Figma
+
 
 ### Sistemas Operativos:
 <p align="left">
@@ -87,12 +93,15 @@ Spring/Spring Boot
   </a>
 </p>
 
+Linux, Windows, MacOS
+
 ### Otras Tecnologías:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=14" />
   </a>
 </p>
+Git, GitHub, Bash, Vite, Netlif
 
 
 ## Mis Estadisticas:
