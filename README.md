@@ -1,4 +1,4 @@
-#👋 Hola, mi nombre es Fernando Diaz
+# 👋 Hola, mi nombre es Fernando Diaz
 Desde pequeño me ha apasionado desarmar cosas para entender cómo funcionaban. Lo que comenzó con juguetes terminó llevándome al mundo del hardware y, más tarde, al desarrollo de software.
 Hoy en día soy programador y me encanta dar vida a ideas a través del código. Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy buscando mejorar, colaborar y construir herramientas útiles.
 
