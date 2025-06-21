@@ -73,8 +73,8 @@
       <th>Otras Tecnologías</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=7"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=4"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=14"/></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=spring&perline=1"/></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=4"/></td>
