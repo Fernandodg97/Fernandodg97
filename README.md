@@ -108,10 +108,10 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 
 <h3>🧲 Conecta conmigo :</h3>
 <a href="mailto:ferdiaz1997@gmail.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  <img src="https://skillicons.dev/icons?i=gmail&perline=14" alt="ferdiaz1997@gmail.com" /></a> 
   
   <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin.com/in/fernandodg97" /></a> 
     
   <a href="https://netlify.app/" target="_blank">
     <img width="60px" src="" alt="Portfolio Badge"></a>
