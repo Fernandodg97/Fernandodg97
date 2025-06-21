@@ -5,6 +5,8 @@ Esa curiosidad me llevó a estudiar informática y comenzar mi carrera profesion
 
 Hoy soy programador y disfruto creando soluciones funcionales, eficientes y bien estructuradas. Me motiva aprender constantemente y participar en proyectos donde la tecnología tenga un impacto real.
 
+Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy buscando mejorar, colaborar y construir herramientas útiles.
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
 ## Mis Habilidades incluyen:
