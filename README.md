@@ -59,6 +59,9 @@
 <div>
   <h2>🧠 Mis Habilidades incluyen:</h2>
 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,mysql,postgresql,vscode,idea,eclipse,postman,figma,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
+
+
 <!-- Tabla de habilidades -->
 <div align="center">
   <table border="1" cellpadding="10" cellspacing="0">
@@ -73,19 +76,9 @@
       <th>Otras Tecnologías</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=2"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,bash,vite,netlify&perline=2"/></td>
-    </tr>
-    <tr>
-      <td align="center"><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
-      <td align="center"><small>React, Vue, Bootstrap, Tailwind</small></td>
-      <td align="center"><small>Spring, Spring Boot</small></td>
+      <td><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
+      <td><small>React, Vue, Bootstrap, Tailwind</small></td>
+      <td><small>Spring, Spring Boot</small></td>
       <td><small>MySQL, PostgreSQL</small></td>
       <td><small>VSCode, IntelliJ, Eclipse, Postman</small></td>
       <td><small>Figma</small></td>
