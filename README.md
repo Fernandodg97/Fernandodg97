@@ -40,8 +40,8 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,phyton&perline=14" />
   </a>
- HTML, CSS, JavaScript, TypeScript, Java, PHP, Phyton
 </p>
+HTML, CSS, JavaScript, TypeScript, Java, PHP, Phyton
 
 ### Tecnologías Frontend:
 <p align="left">
