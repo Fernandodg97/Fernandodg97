@@ -26,19 +26,14 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 
 </div>
 
-  <h3>🧲 Conecta conmigo :</h3>
-<a href="mailto:ferdiaz1997@gmail.com">
-  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
-  
-  <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-    
-  <a href="https://netlify.app/" target="_blank">
-    <img width="60px" src="" alt="Portfolio Badge"></a>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
-## Mis Habilidades incluyen:
+## 🚀 ¿Qué encontrarás aquí?
+- Proyectos personales y prototipos 🛠️
+- Scripts y herramientas útiles ⚙️
+- Colaboraciones y pequeños experimentos 🎯
+
+## 🧠 Mis Habilidades incluyen:
 
 ### Lenguajes:
 <p align="left">
@@ -110,5 +105,15 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 <p align="left">
 <a href="https://linkedin.com/in/fernandodiazgutierrez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="fernandodiazgutierrez" /></a>
 </p>
+
+<h3>🧲 Conecta conmigo :</h3>
+<a href="mailto:ferdiaz1997@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  
+  <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+    
+  <a href="https://netlify.app/" target="_blank">
+    <img width="60px" src="" alt="Portfolio Badge"></a>
 
 Mi curriculum: ![]()
