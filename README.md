@@ -18,8 +18,6 @@
   <a href="https://github.com/Fernandodg97?tab=followers" target="_blank"><img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Fernandodg97?style=for-the-badge&label=Followers&color=5e81ac&logo=github"/></a>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
-
 <!-- Seccion 2: Index -->
 <div>
   <h2>🚀 ¿Qué encontrarás aquí?</h2>
@@ -64,10 +62,11 @@
 <div>
   <h2>Mis Estadisticas:</h2>
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fernandodg97&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
-  ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true) -->
 </div>
 
 <!-- Seccion 5: Contacto -->
