@@ -7,6 +7,25 @@ Hoy soy programador y disfruto creando soluciones funcionales, eficientes y bien
 
 Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy buscando mejorar, colaborar y construir herramientas útiles.
 
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/Fernandodg97" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Fernandodg97&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/Fernandodg97?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/Fernandodg97?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fernandodg97&theme=github)
 
 ## Mis Habilidades incluyen:
