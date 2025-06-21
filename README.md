@@ -101,12 +101,7 @@ Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fernandodg97&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=Fernandodg97&count_private=true)
 
-## Encuéntrame en:
-<p align="left">
-<a href="https://linkedin.com/in/fernandodiazgutierrez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="fernandodiazgutierrez" /></a>
-</p>
-
-<h3>🧲 Conecta conmigo :</h3>
+## 🧲 Conecta conmigo :
 <a href="mailto:ferdiaz1997@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&perline=14" alt="ferdiaz1997@gmail.com" /></a> 
   
