@@ -7,7 +7,7 @@ Hoy soy programador y disfruto creando soluciones funcionales, eficientes y bien
 
 Aquí comparto proyectos personales, experimentos y aprendizajes. Siempre estoy buscando mejorar, colaborar y construir herramientas útiles.
 
-  <h3>🧲 Connect me :</h3>
+  <h3>🧲 Conecta conmigo :</h3>
 <a href="mailto:ferdiaz1997@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
