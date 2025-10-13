@@ -60,15 +60,24 @@
 
 <!-- Seccion 4: Proyectos Destacados -->
 <div>
- <h2>🌟 Proyectos Destacados</h2>
-  <ul>
-    <li>
-      <h3>🎬 Cartelera+</h3>
-      <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles., tecnologías usadas. Tecnologías usadas: React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
-      <p align="left">
-        <img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="40%">
-      </p>
-      <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">Ver código en GitHub</a>
+  <h2>🌟 Proyectos Destacados</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 2.5rem; border: 1px solid #e5e7eb; border-radius: 12px; box-shadow: 0 2px 8px #0001; padding: 1.5rem; background: #f8fafc;">
+      <div style="display: flex; flex-wrap: wrap; align-items: center;">
+        <div style="flex: 1 1 250px; min-width: 220px;">
+          <img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="100%" style="border-radius: 8px; box-shadow: 0 2px 8px #0002;">
+        </div>
+        <div style="flex: 2 1 350px; min-width: 250px; margin-left: 2rem;">
+          <h3 style="margin-top: 0;">🎬 Cartelera+</h3>
+          <p>
+            <strong>Cartelera+</strong> es una web para explorar <b>películas recién estrenadas</b> y <b>series en emisión</b>, mostrando sinopsis, puntuación y plataformas de streaming disponibles.<br>
+            <span style="color: #4f46e5;">Tecnologías:</span> React, Vite, React Router, Tailwind CSS, Flowbite React, consumo de la API de TMDb.
+          </p>
+          <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank" style="display: inline-block; margin-top: 0.5rem; padding: 0.5rem 1.2rem; background: #4f46e5; color: #fff; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.2s;">
+            🔗 Ver código en GitHub
+          </a>
+        </div>
+      </div>
     </li>
     <!-- <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li> -->
   </ul>
