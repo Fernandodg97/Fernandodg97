@@ -66,7 +66,7 @@
     <h4>Tecnologías usadas:</h4>
     <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
     <p align="left">
-      <img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="50%">
+      <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
     </p>
     <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🔗 Ver código en GitHub</a>
 </div>
