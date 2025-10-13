@@ -62,11 +62,13 @@
 <div>
  <h2>🌟 Proyectos Destacados</h2>
   <ul>
-    <li><a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🎬 Cartelera+</a>
+    <li>
+      <h3>🎬 Cartelera+</h3>
       <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles., tecnologías usadas. Tecnologías usadas: React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
       <p align="left">
         <img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="40%">
       </p>
+      <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">Ver código en GitHub</a>
     </li>
     <!-- <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li> -->
   </ul>
