@@ -62,7 +62,7 @@
 <div>
  <h2>🌟 Proyectos Destacados</h2>
     <h3>🎬 Cartelera+</h3>
-    <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsi   puntuación y plataformas de streaming disponibles.</p>
+    <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles.</p>
     <h4>Tecnologías usadas:</h4>
     <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
     <p align="left">
