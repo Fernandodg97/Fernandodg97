@@ -58,7 +58,24 @@
   </table>
 </div>
 
-<!-- Seccion 4: Estadisticas -->
+<!-- Seccion 4: Proyectos Destacados -->
+<div>
+ <h2>🌟 Proyectos Destacados</h2>
+  <ul>
+    <li><a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🎬 Cartelera+</a> – Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles., tecnologías usadas. Tecnologías usadas: React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</li>
+    <!-- <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li> -->
+  </ul>
+</div>
+
+<!-- Seccion 5: Contacto -->
+<div>
+  <h2>🧲 Conecta conmigo:</h2>
+  <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
+  <h3>Mi Currículum:</h3>
+  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="Fernando Diaz Gutierrez Currículum Vitae CV.pdf" target="_blank">Currículum</a></p>
+</div>
+
+<!-- Seccion 6: Estadisticas -->
 <div>
   <h2>📊 Mis Estadisticas:</h2>
   
@@ -74,20 +91,4 @@
   <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
   </div>
 </div>
-
-<!-- Seccion 5: Contacto -->
-<div>
-  <h2>🧲 Conecta conmigo:</h2>
-  <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
-  <h3>Mi Currículum:</h3>
-  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="">Currículum</a></p>
-</div>
-
-<!-- Seccion 6: Proyectos Destacados -->
- <!-- <h2>🌟 Proyectos Destacados</h2>
-  <ul>
-    <li><a href="https://github.com/Fernandodg97/NombreDelProyecto" target="_blank">🔧 Nombre del Proyecto</a> – breve descripción del proyecto, tecnologías usadas.</li>
-    <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li>
-  </ul>
-</div> -->
 
