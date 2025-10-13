@@ -62,7 +62,12 @@
 <div>
  <h2>🌟 Proyectos Destacados</h2>
   <ul>
-    <li><a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🎬 Cartelera+</a> – Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles., tecnologías usadas. Tecnologías usadas: React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</li>
+    <li><a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🎬 Cartelera+</a>
+      <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles., tecnologías usadas. Tecnologías usadas: React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
+      <p align="right">
+        <img src="DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="40%">
+      </p>
+    </li>
     <!-- <li><a href="https://github.com/Fernandodg97/OtroProyecto" target="_blank">📚 Otro Proyecto</a> – breve descripción.</li> -->
   </ul>
 </div>
@@ -91,4 +96,3 @@
   <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandodg97&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
   </div>
 </div>
-
