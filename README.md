@@ -68,6 +68,7 @@
     <p align="left">
       <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
     </p>
+    <a href="https://carteleraplus.netlify.app/" target="_blank">👀 Ver Cartelera+</a>
     <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank">🔗 Ver código en GitHub</a>
 </div>
 
