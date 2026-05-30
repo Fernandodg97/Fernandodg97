@@ -71,6 +71,14 @@
     <a href="https://carteleraplus.netlify.app/" target="_blank" rel="nofollow">👀 Ver Cartelera+</a>
     <br>
     <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+
+    <h3>🐦 Vuelo Amenazado</h3>
+    <p>Web fullstack sobre aves en peligro de extinción del Reino Unido, con datos obtenidos mediante scraping. Incluye API REST propia, panel de administración, autenticación JWT, internacionalización español/inglés y gráficas interactivas. Desarrollado como práctica de DAW (10/10) y posteriormente mejorado y desplegado en producción de forma autónoma.</p>
+    <h4>Tecnologías usadas:</h4>
+    <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
+    <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
+    <br>
+    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 </div>
 
 <!-- Seccion 5: Contacto -->
