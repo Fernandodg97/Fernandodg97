@@ -60,33 +60,34 @@
 
 <!-- Seccion 4: Proyectos Destacados -->
 <div>
- <h2>🌟 Proyectos Destacados</h2>
-    <h3>🎬 Cartelera+</h3>
-    <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles.</p>
-    <h4>Tecnologías usadas:</h4>
-    <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
-    <p align="left">
-      <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
-    </p>
-    <a href="https://carteleraplus.netlify.app/" target="_blank" rel="nofollow">👀 Ver Cartelera+</a>
-    <br>
-    <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+  <h2>🌟 Proyectos Destacados</h2>
+  <h3>🎬 Cartelera+</h3>
+  <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles.</p>
+  <h4>Tecnologías usadas:</h4>
+  <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
+  <p align="left">
+    <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
+  </p>
+  <a href="https://carteleraplus.netlify.app/" target="_blank" rel="nofollow">👀 Ver Cartelera+</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
-    <h3>🐦 Vuelo Amenazado</h3>
-    <p>Web fullstack sobre aves en peligro de extinción del Reino Unido, con datos obtenidos mediante scraping. Incluye API REST propia, panel de administración, autenticación JWT, internacionalización español/inglés y gráficas interactivas. Desarrollado como práctica de DAW (10/10) y posteriormente mejorado y desplegado en producción de forma autónoma.</p>
-    <h4>Tecnologías usadas:</h4>
-    <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
-    <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
-    <br>
-    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+  <h3>🐦 Vuelo Amenazado</h3>
+  <p>Web fullstack sobre aves en peligro de extinción del Reino Unido, con datos obtenidos mediante scraping. Incluye API REST propia, panel de administración, autenticación JWT, internacionalización español/inglés y gráficas interactivas. Desarrollado como práctica de DAW (Nota 10/10) y posteriormente mejorado y desplegado en producción de forma autónoma.</p>
+  <h4>Tecnologías usadas:</h4>
+  <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
+  <p align="left">
+    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank"><img src="/src/DemoPCVueloAmenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
+  </p>
+  <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 </div>
 
 <!-- Seccion 5: Contacto -->
 <div>
   <h2>🧲 Conecta conmigo:</h2>
   <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
-  <h3>Mi Currículum:</h3>
-  <p> Puedes descargar mi currículum en formato PDF desde el siguiente enlace: <a href="Fernando Diaz Gutierrez Currículum Vitae CV.pdf" target="_blank">Currículum</a></p>
 </div>
 
 <!-- Seccion 6: Estadisticas -->
