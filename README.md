@@ -66,7 +66,7 @@
   <h4>Tecnologías usadas:</h4>
   <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
   <p align="left">
-    <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
+    <a href="https://carteleraplus.netlify.app/" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
   </p>
   <a href="https://carteleraplus.netlify.app/" target="_blank" rel="nofollow">👀 Ver Cartelera+</a>
   <br>
@@ -77,7 +77,7 @@
   <h4>Tecnologías usadas:</h4>
   <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
   <p align="left">
-    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank"><img src="/src/DemoPCVueloamenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
+    <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank"><img src="/src/DemoPCVueloamenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
   </p>
   <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
   <br>
