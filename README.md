@@ -77,7 +77,7 @@
   <h4>Tecnologías usadas:</h4>
   <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
   <p align="left">
-    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank"><img src="/src/DemoPCVueloAmenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
+    <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank"><img src="/src/DemoPCVueloamenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
   </p>
   <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
   <br>
