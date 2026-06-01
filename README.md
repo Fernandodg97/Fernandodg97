@@ -61,6 +61,17 @@
 <!-- Seccion 4: Proyectos Destacados -->
 <div>
   <h2>🌟 Proyectos Destacados</h2>
+  <h3>🐾 Patitas Conectadas</h3>
+  <p>-</p>
+  <h4>Tecnologías usadas:</h4>
+  <p>-</p>
+  <p align="left">
+    <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank"><img src="/src/DemoPCPatitasConectaas.png" alt="Demostración de Patitas Conectadas" width="60%"></a>
+  </p>
+  <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/Patitas-Conectadas" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+
   <h3>🎬 Cartelera+</h3>
   <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles.</p>
   <h4>Tecnologías usadas:</h4>
