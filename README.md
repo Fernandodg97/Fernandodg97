@@ -124,6 +124,15 @@
   <a href="https://fusiona-elements.netlify.app/" target="_blank" rel="nofollow">👀 Ver Fusiona Elements</a>
   <br>
   <a href="https://github.com/Fernandodg97/fusiona-elements" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+
+  <h3>🎮 Pokedex</h3>
+  <p>Aplicacion de escritorio desarrollada con Java 21 y JavaFX que consume la PokeAPI en tiempo real para explorar la Pokedex completa. La descarga de Pokemon se ejecuta en hilos de fondo con javafx.concurrent.Task para no bloquear la interfaz, y el JSON de la API se deserializa con Jackson sin necesidad de Spring. Incluye busqueda por nombre, navegacion Anterior/Siguiente y carga bajo demanda del catalogo completo.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>Java 21, JavaFX 21, FXML, Jackson Databind, Apache HttpClient, Maven</p>
+  <p align="left">
+    <img src="/src/DemoPCPokedex.png" alt="Demostracion de Pokedex" width="60%">
+  </p>
+  <a href="https://github.com/Fernandodg97/PoedexV2" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
 </div>
 
 <!-- Seccion 5: Contacto -->
