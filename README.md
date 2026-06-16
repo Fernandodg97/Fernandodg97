@@ -62,9 +62,9 @@
 <div>
   <h2>🌟 Proyectos Destacados</h2>
   <h3>🐾 Patitas Conectadas</h3>
-  <p>-</p>
-  <h4>Tecnologías usadas:</h4>
-  <p>-</p>
+  <p>Red social fullstack para duenos de mascotas, desarrollada como Proyecto Final de Grado (nota 9/10) y llevada a produccion de forma autonoma tras la defensa. Permite publicar en un feed con imagenes y comentarios, gestionar mascotas, apuntarse a eventos, chatear y unirse a grupos. Backend con JWT y Swagger; frontend responsive con navegacion adaptada a movil y escritorio.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>Java 21, Spring Boot 3, Spring Security + JWT, JPA/Hibernate, PostgreSQL (Supabase), Cloudinary, Docker, React 19, TypeScript, Vite, Tailwind CSS</p>
   <p align="left">
     <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank"><img src="/src/DemoPCPatitasConectaas.png" alt="Demostración de Patitas Conectadas" width="60%"></a>
   </p>
@@ -93,6 +93,37 @@
   <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
   <br>
   <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+
+  <h3>🏥 Clinica Veterinaria</h3>
+  <p>Aplicacion web fullstack para la gestion de una clinica veterinaria: usuarios, mascotas y tratamientos. Backend con Spring Boot conectado a Couchbase como base de datos NoSQL documental, y frontend SPA en React + TypeScript. Incluye un dashboard con contadores en tiempo real de usuarios, mascotas y tratamientos recientes.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>Java 21, Spring Boot 3, Spring Data Couchbase, React, TypeScript, Vite, Axios</p>
+  <p align="left">
+    <img src="/src/DemoPCClinicaVeterinaria.png" alt="Demostracion de Clinica Veterinaria" width="60%">
+  </p>
+  <a href="https://github.com/Fernandodg97/Veterinario-Aplicacion-Web" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+
+  <h3>🗺️ Estaciones Verdes</h3>
+  <p>Aplicacion frontend que localiza puntos de carga para vehiculos electricos en cualquier ciudad del mundo. Combina geocodificacion con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y numero de resultados.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>React 19, TypeScript, Vite, Leaflet, react-leaflet, OpenChargeMap API, Nominatim API</p>
+  <p align="left">
+    <a href="https://mapainteractivo-ract.netlify.app/" target="_blank"><img src="/src/DemoPCEstacionesVerdes.png" alt="Demostracion de Estaciones Verdes" width="60%"></a>
+  </p>
+  <a href="https://mapainteractivo-ract.netlify.app/" target="_blank" rel="nofollow">👀 Ver Estaciones Verdes</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/mapainteractivo" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+
+  <h3>🎮 Fusiona Elements</h3>
+  <p>Juego de tablero tipo Merge Puzzle donde el jugador genera elementos en los extremos de una cuadricula 6x6 y los fusiona arrastrando piezas del mismo tipo y nivel para descubrir evoluciones. Todo el drag and drop esta implementado con la API nativa HTML5, sin librerias externas de interaccion.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>React 19, TypeScript, Vite, HTML5 Drag and Drop API</p>
+  <p align="left">
+    <a href="https://fusiona-elements.netlify.app/" target="_blank"><img src="/src/DemoPCFusionaElements.png" alt="Demostracion de Fusiona Elements" width="60%"></a>
+  </p>
+  <a href="https://fusiona-elements.netlify.app/" target="_blank" rel="nofollow">👀 Ver Fusiona Elements</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/fusiona-elements" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
 </div>
 
 <!-- Seccion 5: Contacto -->
