@@ -60,7 +60,7 @@
   <p align="left">
     <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank"><img src="/src/DemoPCPatitasConectaas.png" alt="Demostración de Patitas Conectadas" width="60%"></a>
   </p>
-  <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a>
+  <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a> <small>— Usuario: <code>usuario@usuario.com</code> · Contraseña: <code>usuario</code> · Los servicios pueden tardar ~30s en arrancar (plan gratuito de Render)</small>
   <br>
   <a href="https://github.com/Fernandodg97/Patitas-Conectadas" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
