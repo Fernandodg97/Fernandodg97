@@ -118,8 +118,7 @@
   <p align="left">
     <a href="https://vuepetcaremanager.netlify.app" target="_blank"><img src="/src/DemoPCPetCareManager.png" alt="Demostracion de Pet Care Manager" width="60%"></a>
   </p>
-  <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a>
-  > El login no valida usuario y contraseña: pulsa directamente "Iniciar Sesión" sin rellenar los campos para entrar a la app.
+  <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a> <p> El login no valida usuario y contraseña: pulsa directamente "Iniciar Sesión" sin rellenar los campos para entrar a la app.</p>
   <br>
   <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
 
