@@ -82,7 +82,7 @@
   <p align="left">
     <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank"><img src="/src/DemoPCVueloamenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
   </p>
-  <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a>
+  <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a> <small>— Usuario: <code>user</code> · Contraseña: <code>user</code></small>
   <br>
   <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
