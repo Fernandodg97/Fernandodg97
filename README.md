@@ -111,6 +111,17 @@
   <br>
   <a href="https://github.com/Fernandodg97/dashboard" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
 
+  <h3>🐕 Pet Care Manager</h3>
+  <p>Aplicacion movil para el cuidado de mascotas construida con Ionic, Vue 3 y TypeScript, empaquetable en iOS/Android con Capacitor. Permite gestionar mascotas, actividad, historial medico y eventos, con diseno responsive real (carrusel en escritorio, lista apilada en movil) y un mapa interactivo con Leaflet para seleccionar ubicaciones.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>Ionic 8, Vue 3, TypeScript, Vite, Capacitor, Leaflet</p>
+  <p align="left">
+    <a href="https://vuepetcaremanager.netlify.app" target="_blank"><img src="/src/DemoPCPetCareManager.png" alt="Demostracion de Pet Care Manager" width="60%"></a>
+  </p>
+  <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+
   <h3>🗺️ Estaciones Verdes</h3>
   <p>Aplicacion frontend que localiza puntos de carga para vehiculos electricos en cualquier ciudad del mundo. Combina geocodificacion con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y numero de resultados.</p>
   <h4>Tecnologias usadas:</h4>
