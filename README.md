@@ -32,7 +32,7 @@
   <h2>🧠 Mis Habilidades incluyen:</h2>
 <!-- Tabla de habilidades -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,mysql,postgresql,vscode,idea,eclipse,postman,figma,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,ionic,maven,mysql,postgresql,docker,supabase,selenium,vitest,cypress,leaflet,vscode,idea,eclipse,postman,figma,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
   <p><br></p>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
@@ -40,20 +40,22 @@
       <th>Frontend</th>
       <th>Backend</th>
       <th>Bases de Datos</th>
-      <th>Herramientas de Desarrollo</th>
+      <th>Testing</th>
+      <th>Despliegue</th>
+      <th>Herramientas</th>
       <th>Diseño</th>
       <th>Sistemas Operativos</th>
-      <th>Otras Tecnologías</th>
     </tr>
     <tr>
       <td align="center"><small>HTML, CSS, JavaScript, TypeScript, Java, PHP, Python</small></td>
-      <td align="center"><small>React, Vue, Bootstrap, Tailwind</small></td>
-      <td align="center"><small>Spring/Spring Boot</small></td>
-      <td align="center"><small>MySQL, PostgreSQL</small></td>
-      <td align="center"><small>VSCode, IntelliJ, Eclipse, Postman</small></td>
+      <td align="center"><small>React, Vue, Ionic, Bootstrap, Tailwind CSS, Thymeleaf, JavaFX, Leaflet, ECharts, ApexCharts, Chart.js, Capacitor</small></td>
+      <td align="center"><small>Spring Boot, Spring Security, JWT, JPA/Hibernate, Spring Data Couchbase, Swagger/OpenAPI</small></td>
+      <td align="center"><small>MySQL, PostgreSQL, Couchbase, Supabase</small></td>
+      <td align="center"><small>Vitest, Cypress, Selenium</small></td>
+      <td align="center"><small>Docker, Netlify, Railway, Render, Cloudinary, GitHub Pages</small></td>
+      <td align="center"><small>VSCode, IntelliJ, Eclipse, Postman, Maven, Git, GitHub, Bash, Vite</small></td>
       <td align="center"><small>Figma</small></td>
       <td align="center"><small>Linux, Windows, macOS</small></td>
-      <td align="center"><small>Git, GitHub, Bash, Vite, Netlify</small></td>
     </tr>
   </table>
 </div>
