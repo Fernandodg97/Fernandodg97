@@ -32,7 +32,7 @@
   <h2>🧠 Mis Habilidades incluyen:</h2>
 <!-- Tabla de habilidades -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,ionic,maven,mysql,postgresql,docker,supabase,selenium,vitest,cypress,leaflet,vscode,idea,eclipse,postman,figma,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,react,vue,bootstrap,tailwind,spring,maven,mysql,postgresql,docker,supabase,selenium,vitest,cypress,vscode,idea,eclipse,postman,linux,windows,apple,git,github,bash,vite,netlify&perline=9"/>
   <p><br></p>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
@@ -43,7 +43,6 @@
       <th>Testing</th>
       <th>Despliegue</th>
       <th>Herramientas</th>
-      <th>Diseño</th>
       <th>Sistemas Operativos</th>
     </tr>
     <tr>
@@ -54,7 +53,6 @@
       <td align="center"><small>Vitest, Cypress, Selenium</small></td>
       <td align="center"><small>Docker, Netlify, Railway, Render, Cloudinary, GitHub Pages</small></td>
       <td align="center"><small>VSCode, IntelliJ, Eclipse, Postman, Maven, Git, GitHub, Bash, Vite</small></td>
-      <td align="center"><small>Figma</small></td>
       <td align="center"><small>Linux, Windows, macOS</small></td>
     </tr>
   </table>
