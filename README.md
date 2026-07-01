@@ -62,8 +62,8 @@
 <div>
   <h2>🌟 Proyectos Destacados</h2>
   <h3>🐾 Patitas Conectadas</h3>
-  <p>Red social fullstack para duenos de mascotas, desarrollada como Proyecto Final de Grado (nota 9/10) y llevada a produccion de forma autonoma tras la defensa. Permite publicar en un feed con imagenes y comentarios, gestionar mascotas, apuntarse a eventos, chatear y unirse a grupos. Backend con JWT y Swagger; frontend responsive con navegacion adaptada a movil y escritorio.</p>
-  <h4>Tecnologias usadas:</h4>
+  <p>Red social fullstack para dueños de mascotas, desarrollada como Proyecto Final de Grado (nota 9/10) y llevada a producción de forma autónoma tras la defensa. Permite publicar en un feed con imágenes y comentarios, gestiónar mascotas, apuntarse a eventos, chatear y unirse a grupos. Backend con JWT y Swagger; frontend responsive con navegación adaptada a móvil y escritorio.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>Java 21, Spring Boot 3, Spring Security + JWT, JPA/Hibernate, PostgreSQL (Supabase), Cloudinary, Docker, React 19, TypeScript, Vite, Tailwind CSS</p>
   <p align="left">
     <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank"><img src="/src/DemoPCPatitasConectaas.png" alt="Demostración de Patitas Conectadas" width="60%"></a>
@@ -94,63 +94,63 @@
   <br>
   <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
-  <h3>🏥 Clinica Veterinaria</h3>
-  <p>Aplicacion web fullstack para la gestion de una clinica veterinaria: usuarios, mascotas y tratamientos. Backend con Spring Boot conectado a Couchbase como base de datos NoSQL documental, y frontend SPA en React + TypeScript. Incluye un dashboard con contadores en tiempo real de usuarios, mascotas y tratamientos recientes.</p>
-  <h4>Tecnologias usadas:</h4>
+  <h3>🏥 Clínica Veterinaria</h3>
+  <p>Aplicación web fullstack para la gestión de una clinica veterinaria: usuarios, mascotas y tratamientos. Backend con Spring Boot conectado a Couchbase como base de datos NoSQL documental, y frontend SPA en React + TypeScript. Incluye un dashboard con contadores en tiempo real de usuarios, mascotas y tratamientos recientes.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>Java 21, Spring Boot 3, Spring Data Couchbase, React, TypeScript, Vite, Axios</p>
-  <a href="https://github.com/Fernandodg97/Veterinario-Aplicacion-Web" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/Veterinario-Aplicación-Web" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
-  <h3>📊 Dashboard de Visualizacion de Datos</h3>
-  <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar metricas de negocio y de operaciones tecnicas en tiempo real. Integra tres librerias de graficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualizacion de datos en vivo sin recargas de pagina.</p>
-  <h4>Tecnologias usadas:</h4>
+  <h3>📊 Dashboard de Visualización de Datos</h3>
+  <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar métricas de negocio y de operaciones técnicas en tiempo real. Integra tres librerías de graficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualización de datos en vivo sin recargas de página.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>Vue 3, Ionic 8, TypeScript, Vite, ECharts, ApexCharts, Chart.js, Capacitor</p>
     <p align="left">
-    <a href="https://vue3dashboard.netlify.app" target="_blank"><img src="/src/DemoPCDashboard.png" alt="Demostracion de Dashboard de Visualizacion de Datos" width="60%"></a>
+    <a href="https://vue3dashboard.netlify.app" target="_blank"><img src="/src/DemoPCDashboard.png" alt="Demostración de Dashboard de Visualización de Datos" width="60%"></a>
   </p>
   <a href="https://vue3dashboard.netlify.app" target="_blank" rel="nofollow">👀 Ver Dashboard</a>
   <br>
-  <a href="https://github.com/Fernandodg97/dashboard" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/dashboard" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🐕 Pet Care Manager</h3>
-  <p>Aplicacion movil para el cuidado de mascotas construida con Ionic, Vue 3 y TypeScript, empaquetable en iOS/Android con Capacitor. Permite gestionar mascotas, actividad, historial medico y eventos, con diseno responsive real (carrusel en escritorio, lista apilada en movil) y un mapa interactivo con Leaflet para seleccionar ubicaciones.</p>
-  <h4>Tecnologias usadas:</h4>
+  <p>Aplicación móvil para el cuidado de mascotas construida con Ionic, Vue 3 y TypeScript, empaquetable en iOS/Android con Capacitor. Permite gestiónar mascotas, actividad, historial médico y eventos, con diseño responsive real (carrusel en escritorio, lista apilada en móvil) y un mapa interactivo con Leaflet para seleccionar ubicaciones.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>Ionic 8, Vue 3, TypeScript, Vite, Capacitor, Leaflet</p>
   <p align="left">
-    <a href="https://vuepetcaremanager.netlify.app" target="_blank"><img src="/src/DemoPCPetCareManager.png" alt="Demostracion de Pet Care Manager" width="60%"></a>
+    <a href="https://vuepetcaremanager.netlify.app" target="_blank"><img src="/src/DemoPCPetCareManager.png" alt="Demostración de Pet Care Manager" width="60%"></a>
   </p>
   <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a> <p> El login no valida usuario y contraseña: pulsa directamente "Iniciar Sesión" sin rellenar los campos para entrar a la app.</p>
-  <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🗺️ Estaciones Verdes</h3>
-  <p>Aplicacion frontend que localiza puntos de carga para vehiculos electricos en cualquier ciudad del mundo. Combina geocodificacion con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y numero de resultados.</p>
-  <h4>Tecnologias usadas:</h4>
+  <p>Aplicación frontend que localiza puntos de carga para vehículos electricos en cualquier ciudad del mundo. Combina geocodificación con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y número de resultados.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>React 19, TypeScript, Vite, Leaflet, react-leaflet, OpenChargeMap API, Nominatim API</p>
   <p align="left">
-    <a href="https://mapainteractivo-ract.netlify.app/" target="_blank"><img src="/src/DemoPCEstacionesVerdes.png" alt="Demostracion de Estaciones Verdes" width="60%"></a>
+    <a href="https://mapainteractivo-ract.netlify.app/" target="_blank"><img src="/src/DemoPCEstacionesVerdes.png" alt="Demostración de Estaciones Verdes" width="60%"></a>
   </p>
   <a href="https://mapainteractivo-ract.netlify.app/" target="_blank" rel="nofollow">👀 Ver Estaciones Verdes</a>
   <br>
-  <a href="https://github.com/Fernandodg97/mapainteractivo" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/mapainteractivo" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🎮 Fusiona Elements</h3>
-  <p>Juego de tablero tipo Merge Puzzle donde el jugador genera elementos en los extremos de una cuadricula 6x6 y los fusiona arrastrando piezas del mismo tipo y nivel para descubrir evoluciones. Todo el drag and drop esta implementado con la API nativa HTML5, sin librerias externas de interaccion.</p>
-  <h4>Tecnologias usadas:</h4>
+  <p>Juego de tablero tipo Merge Puzzle donde el jugador genera elementos en los extremos de una cuadrícula 6x6 y los fusiona arrastrando piezas del mismo tipo y nivel para descubrir evoluciones. Todo el drag and drop esta implementado con la API nativa HTML5, sin librerías externas de interaccion.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>React 19, TypeScript, Vite, HTML5 Drag and Drop API</p>
   <p align="left">
-    <a href="https://fusiona-elements.netlify.app/" target="_blank"><img src="/src/DemoPCFusionaElements.png" alt="Demostracion de Fusiona Elements" width="60%"></a>
+    <a href="https://fusiona-elements.netlify.app/" target="_blank"><img src="/src/DemoPCFusionaElements.png" alt="Demostración de Fusiona Elements" width="60%"></a>
   </p>
   <a href="https://fusiona-elements.netlify.app/" target="_blank" rel="nofollow">👀 Ver Fusiona Elements</a>
   <br>
-  <a href="https://github.com/Fernandodg97/fusiona-elements" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/fusiona-elements" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🎮 Pokedex</h3>
-  <p>Aplicacion de escritorio desarrollada con Java 21 y JavaFX que consume la PokeAPI en tiempo real para explorar la Pokedex completa. La descarga de Pokemon se ejecuta en hilos de fondo con javafx.concurrent.Task para no bloquear la interfaz, y el JSON de la API se deserializa con Jackson sin necesidad de Spring. Incluye busqueda por nombre, navegacion Anterior/Siguiente y carga bajo demanda del catalogo completo.</p>
-  <h4>Tecnologias usadas:</h4>
+  <p>Aplicación de escritorio desarrollada con Java 21 y JavaFX que consume la PokeAPI en tiempo real para explorar la Pokedex completa. La descarga de Pokemon se ejecuta en hilos de fondo con javafx.concurrent.Task para no bloquear la interfaz, y el JSON de la API se deserializa con Jackson sin necesidad de Spring. Incluye búsqueda por nombre, navegación Anterior/Siguiente y carga bajo demanda del catálogo completo.</p>
+  <h4>Tecnologías usadas:</h4>
   <p>Java 21, JavaFX 21, FXML, Jackson Databind, Apache HttpClient, Maven</p>
   <p align="left">
-    <img src="/src/DemoPCPokedex.png" alt="Demostracion de Pokedex" width="60%">
+    <img src="/src/DemoPCPokedex.png" alt="Demostración de Pokedex" width="60%">
   </p>
-  <a href="https://github.com/Fernandodg97/PoedexV2" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+  <a href="https://github.com/Fernandodg97/PoedexV2" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 </div>
 
 <!-- Seccion 5: Contacto -->
@@ -159,9 +159,9 @@
   <p>Puedes encontrarme en <a href="https://www.linkedin.com/in/fernandodg97" target="_blank">LinkedIn</a> o escribirme <a href="mailto:ferdiaz1997@gmail.com">ferdiaz1997@gmail.com</a></p>
 </div>
 
-<!-- Seccion 6: Estadisticas -->
+<!-- Seccion 6: Estadísticas -->
 <div>
-  <h2>📊 Mis Estadisticas:</h2>
+  <h2>📊 Mis Estadísticas:</h2>
   
   <div align="center">  
   
