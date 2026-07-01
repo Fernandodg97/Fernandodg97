@@ -40,7 +40,6 @@
       <th>Frontend</th>
       <th>Backend</th>
       <th>Bases de Datos</th>
-      <th>APIs y Servicios</th>
       <th>Testing</th>
       <th>Despliegue</th>
       <th>Herramientas</th>
@@ -51,7 +50,6 @@
       <td align="center"><small>React 19, Vue 3, Ionic 8, Bootstrap, Tailwind CSS, Flowbite React, Thymeleaf, Twig, JavaFX 21, FXML, Leaflet, react-leaflet, ECharts, ApexCharts, Chart.js, Capacitor, React Router, Axios, Swiper</small></td>
       <td align="center"><small>Spring Boot 3, Spring Security + JWT, JPA/Hibernate, Spring Data Couchbase, Spring Validation, Swagger/OpenAPI, Jackson Databind, Apache HttpClient, Lombok</small></td>
       <td align="center"><small>MySQL, PostgreSQL, Couchbase, Supabase</small></td>
-      <td align="center"><small>TMDb API, PokeAPI, OpenChargeMap API, Nominatim/OpenStreetMap, Cloudinary</small></td>
       <td align="center"><small>Vitest, Cypress, Selenium</small></td>
       <td align="center"><small>Docker, Apache, Netlify, Railway, Render, GitHub Pages</small></td>
       <td align="center"><small>VSCode, IntelliJ IDEA, Eclipse, Postman, Maven, Composer, Git, GitHub, Bash, Vite, JasperReports, Gettext</small></td>
