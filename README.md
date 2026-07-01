@@ -19,15 +19,6 @@
   <a href="https://github.com/Fernandodg97?tab=followers" target="_blank"><img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Fernandodg97?style=for-the-badge&label=Followers&color=5e81ac&logo=github"/></a>
 </div>
 
-<!-- Seccion 2: Index -->
-<div>
-  <h2>🚀 ¿Qué encontrarás aquí?</h2>
-    <ul>
-      <li>Proyectos personales y prototipos 🛠️</li>
-      <li>Scripts y herramientas útiles ⚙️</li>
-      <li>Colaboraciones y pequeños experimentos 🎯</li>
-    </ul>
-</div>
 <!-- Seccion 3: Habilidades -->
 <div>
   <h2>🧠 Mis Habilidades incluyen:</h2>
