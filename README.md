@@ -100,6 +100,17 @@
   <p>Java 21, Spring Boot 3, Spring Data Couchbase, React, TypeScript, Vite, Axios</p>
   <a href="https://github.com/Fernandodg97/Veterinario-Aplicacion-Web" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
 
+  <h3>📊 Dashboard de Visualizacion de Datos</h3>
+  <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar metricas de negocio y de operaciones tecnicas en tiempo real. Integra tres librerias de graficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualizacion de datos en vivo sin recargas de pagina.</p>
+  <h4>Tecnologias usadas:</h4>
+  <p>Vue 3, Ionic 8, TypeScript, Vite, ECharts, ApexCharts, Chart.js, Capacitor</p>
+    <p align="left">
+    <a href="https://vue3dashboard.netlify.app" target="_blank"><img src="/src/DemoPCDashboard.png" alt="Demostracion de Dashboard de Visualizacion de Datos" width="60%"></a>
+  </p>
+  <a href="https://vue3dashboard.netlify.app" target="_blank" rel="nofollow">👀 Ver Dashboard</a>
+  <br>
+  <a href="https://github.com/Fernandodg97/dashboard" target="_blank" rel="nofollow">🔗 Ver codigo en GitHub</a>
+
   <h3>🗺️ Estaciones Verdes</h3>
   <p>Aplicacion frontend que localiza puntos de carga para vehiculos electricos en cualquier ciudad del mundo. Combina geocodificacion con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y numero de resultados.</p>
   <h4>Tecnologias usadas:</h4>
