@@ -54,7 +54,7 @@
 <div>
   <h2>🌟 Proyectos Destacados</h2>
   <h3>🐾 Patitas Conectadas</h3>
-  <p>Red social fullstack para dueños de mascotas, desarrollada como Proyecto Final de Grado (nota 9/10) y llevada a producción de forma autónoma tras la defensa. Permite publicar en un feed con imágenes y comentarios, gestiónar mascotas, apuntarse a eventos, chatear y unirse a grupos. Backend con JWT y Swagger; frontend responsive con navegación adaptada a móvil y escritorio.</p>
+  <p>Red social fullstack para dueños de mascotas, desarrollada como Proyecto Final de Grado (nota 9/10) y llevada a producción de forma autónoma tras la defensa. Permite publicar en un feed con imágenes y comentarios, gestionar mascotas, apuntarse a eventos, chatear y unirse a grupos. Backend con JWT y Swagger; frontend responsive con navegación adaptada a móvil y escritorio.</p>
   <h4>Tecnologías usadas:</h4>
   <p>Java 21, Spring Boot 3, Spring Security + JWT, JPA/Hibernate, PostgreSQL (Supabase), Cloudinary, Docker, React 19, TypeScript, Vite, Tailwind CSS</p>
   <p align="left">
@@ -104,7 +104,7 @@
   <a href="https://github.com/Fernandodg97/dashboard" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🐕 Pet Care Manager</h3>
-  <p>Aplicación móvil para el cuidado de mascotas construida con Ionic, Vue 3 y TypeScript, empaquetable en iOS/Android con Capacitor. Permite gestiónar mascotas, actividad, historial médico y eventos, con diseño responsive real (carrusel en escritorio, lista apilada en móvil) y un mapa interactivo con Leaflet para seleccionar ubicaciones.</p>
+  <p>Aplicación móvil para el cuidado de mascotas construida con Ionic, Vue 3 y TypeScript, empaquetable en iOS/Android con Capacitor. Permite gestionar mascotas, actividad, historial médico y eventos, con diseño responsive real (carrusel en escritorio, lista apilada en móvil) y un mapa interactivo con Leaflet para seleccionar ubicaciones.</p>
   <h4>Tecnologías usadas:</h4>
   <p>Ionic 8, Vue 3, TypeScript, Vite, Capacitor, Leaflet</p>
   <p align="left">
