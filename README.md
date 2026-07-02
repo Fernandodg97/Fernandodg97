@@ -60,7 +60,7 @@
   <p align="left">
     <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank"><img src="/src/DemoPCPatitasConectaas.png" alt="Demostración de Patitas Conectadas" width="60%"></a>
   </p>
-  <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a> <small>— Usuario: <code>usuario@usuario.com</code> · Contraseña: <code>usuario</code> · Los servicios pueden tardar ~30s en arrancar (plan gratuito de Render)</small>
+  <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a> <small>- Usuario: <code>usuario@usuario.com</code> · Contraseña: <code>usuario</code> · Los servicios pueden tardar ~30s en arrancar (plan gratuito de Render)</small>
   <br>
   <a href="https://github.com/Fernandodg97/Patitas-Conectadas" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
@@ -82,7 +82,7 @@
   <p align="left">
     <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank"><img src="/src/DemoPCVueloamenazado.png" alt="Demostración de Vuelo Amenazado" width="60%"></a>
   </p>
-  <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a> <small>— Usuario: <code>user</code> · Contraseña: <code>user</code></small>
+  <a href="https://vueloamenazadolocal-production.up.railway.app/" target="_blank" rel="nofollow">👀 Ver Vuelo Amenazado</a> <small>- Usuario: <code>user</code> · Contraseña: <code>user</code></small>
   <br>
   <a href="https://github.com/Fernandodg97/vueloamenazado.local" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
@@ -110,7 +110,7 @@
   <p align="left">
     <a href="https://vuepetcaremanager.netlify.app" target="_blank"><img src="/src/DemoPCPetCareManager.png" alt="Demostración de Pet Care Manager" width="60%"></a>
   </p>
-  <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a> <p> El login no valida usuario y contraseña: pulsa directamente "Iniciar Sesión" sin rellenar los campos para entrar a la app.</p>
+  <a href="https://vuepetcaremanager.netlify.app" target="_blank" rel="nofollow">👀 Ver Pet Care Manager</a> <small>- Pulsa "Iniciar Sesión" sin rellenar los campos para entrar</small>
   <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🗺️ Estaciones Verdes</h3>
