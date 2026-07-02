@@ -92,7 +92,7 @@
   <p>Aplicación web fullstack para la gestión de una clinica veterinaria: usuarios, mascotas y tratamientos. Backend con Spring Boot conectado a Couchbase como base de datos NoSQL documental, y frontend SPA en React + TypeScript. Incluye un dashboard con contadores en tiempo real de usuarios, mascotas y tratamientos recientes.</p>
   <h4>Tecnologías usadas:</h4>
   <p>Java 21, Spring Boot 3, Spring Data Couchbase, React, TypeScript, Vite, Axios</p>
-  <a href="https://github.com/Fernandodg97/Veterinario-Aplicación-Web" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+  <a href="https://github.com/Fernandodg97/Veterinario-Aplicacion-Web" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>📊 Dashboard de Visualización de Datos</h3>
   <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar métricas de negocio y de operaciones técnicas en tiempo real. Integra tres librerías de gráficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualización de datos en vivo sin recargas de página.</p>
