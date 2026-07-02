@@ -63,11 +63,13 @@
   <a href="https://front-patitas-conectadas-render-com.onrender.com/login" target="_blank" rel="nofollow">👀 Ver Patitas Conectadas</a> <small>- Usuario: <code>usuario@usuario.com</code> · Contraseña: <code>usuario</code> · Los servicios pueden tardar ~30s en arrancar (plan gratuito de Render)</small>
   <br>
   <a href="https://github.com/Fernandodg97/Patitas-Conectadas" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
+  <br>
+  <a href="https://api-patitasconectadas-docker.onrender.com/swagger-ui/index.html" target="_blank" rel="nofollow">📄 Ver API (Swagger)</a>
 
   <h3>🎬 Cartelera+</h3>
-  <p>Web para explorar películas recién estrenadas y series en emisión, con detalles como sinopsis, puntuación y plataformas de streaming disponibles.</p>
+  <p>SPA desplegada en producción que consume la TMDb API para mostrar cartelera de cine y series en emisión. Incluye búsqueda, filtros, paginación con React Query, diseño responsive con Tailwind CSS y disponibilidad por plataforma de streaming para cada título.</p>
   <h4>Tecnologías usadas:</h4>
-  <p>React, Vite, React Router, Tailwind CSS + Flowbite React, consumo de la API de TMDb</p>
+  <p>React 19, TypeScript, Vite, React Router, Tailwind CSS, Flowbite React, TMDb API, Netlify</p>
   <p align="left">
     <a href="https://carteleraplus.netlify.app/" target="_blank"><img src="/src/DemoPCCarteleraplus.png" alt="Demostración de Cartelera+" width="60%"></a>
   </p>
@@ -76,7 +78,7 @@
   <a href="https://github.com/Fernandodg97/Cartelera-" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🐦 Vuelo Amenazado</h3>
-  <p>Web fullstack sobre aves en peligro de extinción del Reino Unido, con datos obtenidos mediante scraping. Incluye API REST propia, panel de administración, autenticación JWT, internacionalización español/inglés y gráficas interactivas. Desarrollado como práctica de DAW (Nota 10/10) y posteriormente mejorado y desplegado en producción de forma autónoma.</p>
+  <p>Web fullstack sobre aves en peligro de extinción del Reino Unido. Los datos se obtienen mediante scraping con Selenium y Python, se almacenan en MySQL y se sirven a través de una API REST propia. Incluye panel de administración, autenticación JWT, internacionalización español/inglés y gráficas interactivas. Desarrollado como práctica de DAW (Nota 10/10) y posteriormente mejorado y desplegado en producción de forma autónoma.</p>
   <h4>Tecnologías usadas:</h4>
   <p>PHP 8.2, MySQL, Apache, Docker, Twig, Bootstrap, Chart.js, JWT, Railway</p>
   <p align="left">
@@ -93,7 +95,7 @@
   <a href="https://github.com/Fernandodg97/Veterinario-Aplicación-Web" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>📊 Dashboard de Visualización de Datos</h3>
-  <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar métricas de negocio y de operaciones técnicas en tiempo real. Integra tres librerías de graficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualización de datos en vivo sin recargas de página.</p>
+  <p>Dashboard interactivo construido con Vue 3, Ionic y TypeScript para monitorizar métricas de negocio y de operaciones técnicas en tiempo real. Integra tres librerías de gráficos (ECharts, ApexCharts y Chart.js), un mapa mundial interactivo y actualización de datos en vivo sin recargas de página.</p>
   <h4>Tecnologías usadas:</h4>
   <p>Vue 3, Ionic 8, TypeScript, Vite, ECharts, ApexCharts, Chart.js, Capacitor</p>
     <p align="left">
@@ -115,7 +117,7 @@
   <a href="https://github.com/Fernandodg97/PetCareManager" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🗺️ Estaciones Verdes</h3>
-  <p>Aplicación frontend que localiza puntos de carga para vehículos electricos en cualquier ciudad del mundo. Combina geocodificación con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y número de resultados.</p>
+  <p>Aplicación frontend que localiza puntos de carga para vehículos eléctricos en cualquier ciudad del mundo. Combina geocodificación con Nominatim (OpenStreetMap) y la API de OpenChargeMap para mostrar estaciones sobre un mapa interactivo con filtros de distancia y número de resultados.</p>
   <h4>Tecnologías usadas:</h4>
   <p>React 19, TypeScript, Vite, Leaflet, react-leaflet, OpenChargeMap API, Nominatim API</p>
   <p align="left">
@@ -126,7 +128,7 @@
   <a href="https://github.com/Fernandodg97/mapainteractivo" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
   <h3>🎮 Fusiona Elements</h3>
-  <p>Juego de tablero tipo Merge Puzzle donde el jugador genera elementos en los extremos de una cuadrícula 6x6 y los fusiona arrastrando piezas del mismo tipo y nivel para descubrir evoluciones. Todo el drag and drop esta implementado con la API nativa HTML5, sin librerías externas de interaccion.</p>
+  <p>Juego de tablero tipo Merge Puzzle donde el jugador genera elementos en los extremos de una cuadrícula 6x6 y los fusiona arrastrando piezas del mismo tipo y nivel para descubrir evoluciones. Todo el drag and drop está implementado con la API nativa HTML5, sin librerías externas de interacción.</p>
   <h4>Tecnologías usadas:</h4>
   <p>React 19, TypeScript, Vite, HTML5 Drag and Drop API</p>
   <p align="left">
