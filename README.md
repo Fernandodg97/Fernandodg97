@@ -141,7 +141,7 @@
   <h4>Tecnologías usadas:</h4>
   <p>Java 21, JavaFX 21, FXML, Jackson Databind, Apache HttpClient, Maven</p>
   <p align="left">
-    <a href="https://youtu.be/y3FgKN0y5Tg" target="_blank"><img src="/src/DemoPCPokedex.png" alt="Demo Pokedex" width="60%"></a>
+    <video src="https://github.com/user-attachments/assets/cde391c7-5492-4125-87fa-811013308144" width="60%" controls></video>
   </p>
   <a href="https://github.com/Fernandodg97/PoedexV2" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 </div>
