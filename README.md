@@ -121,9 +121,9 @@
   <h4>Tecnologías usadas:</h4>
   <p>React 19, TypeScript, Vite, Leaflet, react-leaflet, OpenChargeMap API, Nominatim API</p>
   <p align="left">
-    <a href="https://mapainteractivo-ract.netlify.app/" target="_blank"><img src="/src/DemoPCEstacionesVerdes.png" alt="Demostración de Estaciones Verdes" width="60%"></a>
+    <a href="https://mapainteractivodepuntosdecarga.netlify.app/" target="_blank"><img src="/src/DemoPCEstacionesVerdes.png" alt="Demostración de Estaciones Verdes" width="60%"></a>
   </p>
-  <a href="https://mapainteractivo-ract.netlify.app/" target="_blank" rel="nofollow">👀 Ver Estaciones Verdes</a>
+  <a href="https://mapainteractivodepuntosdecarga.netlify.app/" target="_blank" rel="nofollow">👀 Ver Estaciones Verdes</a>
   <br>
   <a href="https://github.com/Fernandodg97/mapainteractivo" target="_blank" rel="nofollow">🔗 Ver código en GitHub</a>
 
